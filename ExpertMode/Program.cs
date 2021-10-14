@@ -1,11 +1,11 @@
-﻿using System;
+﻿/*using System;
 
 namespace ExpertMode
 {
     
     public class Program
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {   
             PrimeiroCadastro();
             SegundoCadastro();
@@ -43,8 +43,8 @@ namespace ExpertMode
             Console.ReadKey();
             Print("Obrigado e vamos agora a nossa jornada!!!");
             Console.ReadKey();
-        }*/
+        }
 
        
     }
-}
+}*/

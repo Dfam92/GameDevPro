@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\ExpertMode\\ExpertMode.csproj",
+      "projectUniqueName": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\GameDevPro\\ExpertMode\\ExpertMode.csproj",
       "projectName": "ExpertMode",
-      "projectPath": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\ExpertMode\\ExpertMode.csproj",
+      "projectPath": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\GameDevPro\\ExpertMode\\ExpertMode.csproj",
       "packagesPath": "C:\\Users\\DFAM9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\ExpertMode\\obj\\",
+      "outputPath": "C:\\Users\\DFAM9\\Desktop\\Curso GameDevPro\\GameDevPro\\ExpertMode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
